@@ -7,7 +7,7 @@ ___
 ### __The list of tasks for this project__
 #### ___(completed/unfulfilled)___
 - [X] Report (ДК)
-- [ ] Presentation (ПЗ)
+- [X] Presentation (ПЗ)
 ___
 
 # __About autor__
